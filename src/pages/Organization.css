@@ -1,0 +1,53 @@
+.head1 {
+  position: absolute;
+  width: 618px;
+  height: 58px;
+  left: 447px;
+  top: 113px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #3218D1;
+}
+
+.orga p {
+  position: absolute;
+  width: 631px;
+  height: 48px;
+  left: 0px;
+  top: 189px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+}
+
+.Winner {
+  position: absolute;
+padding:  06em 10em;
+
+  display: flex;
+  background: hsl(61, 99%, 51%);
+  right: 0;
+  top: 7em;
+}
+.Winner h2{
+  font-size: 2em;
+  color: red;
+  left:0;
+}
