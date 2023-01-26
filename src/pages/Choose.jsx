@@ -52,7 +52,7 @@ const Choose = () => {
                   </p>
                   <div className="effect-btn">
                     <a href="#" className="btn">
-                      <i className="fa fa-eye"></i> Read More
+                      <i className="fa fa-eye"></i> <Link  to="/Choose/Stade2" >Read More</Link>
                     </a>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const Choose = () => {
                   </p>
                   <div className="effect-btn">
                     <a href="#" className="btn">
-                      <i className="fa fa-eye"></i> Read More
+                      <i className="fa fa-eye"></i><Link to="/Choose/Stade3" > Read More</Link>
                     </a>
                   </div>
                 </div>

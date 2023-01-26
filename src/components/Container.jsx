@@ -19,10 +19,10 @@ const Container = () => {
       {/* <!-- icons --> */}
       <div id="icons">
         {/* <!-- visit => "fontawesome.com" for icons --> */}
-        <a href="#">
+        <a href="https://www.facebook.com/amine.dana14" target={"_blank"}>
           <i class="fab fa-facebook-f"></i>
         </a>
-        <a href="#">
+        <a href="https://www.instagram.com/teck.alger/" target={"_blank"}>
           <i class="fab fa-instagram"></i>
         </a>
         <a href="#">
